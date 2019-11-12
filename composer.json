@@ -21,5 +21,11 @@
         "psr-4": {
             "www904\\weiyoufu\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "www904\\weiyoufu\\Tests\\": "tests/"
+            "www904\\weiyoufu\\Tests\\": "tests/"
+        }
     }
 }
