@@ -1,0 +1,25 @@
+{
+    "name": "www904/weiyoufu",
+    "description":  "Third party payment !",
+    "keywords": ["weiyoufu"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Min Qi",
+            "email": "1564788166@qq.com",
+            "homepage": "https://github.com/www904",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yin32167\\weiyoufu\\": "src/"
+        }
+    }
+}
