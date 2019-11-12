@@ -5,7 +5,7 @@
 ### 安装
 
 ~~~
-composer require www904/weiyoufu
+composer require www904/weiyoufu 
 ~~~
 
 
